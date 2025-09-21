@@ -23,8 +23,10 @@ npm install
 ```bash
 npm start
 ```
-## Script ini di support oleh
 
-![Node.js](https://cdn-icons-png.flaticon.com/512/919/919825.png) 
-![JavaScript](https://cdn-icons-png.flaticon.com/512/919/919828.png) 
-![Bash](https://cdn-icons-png.flaticon.com/512/919/919831.png)
+<p>Script ini di support oleh</p>
+<p>
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" width="50" />
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919828.png" width="50" />
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919831.png" width="50" />
+</p>
