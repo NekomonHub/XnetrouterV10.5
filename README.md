@@ -5,8 +5,17 @@
 - Udp flood
 - Ping combo
 
-# Cara Instalasi
+## Cara Instalasi
 ```bash
 git clone https://github.com/NekomonHub/XnetrouterV10.5
+```
+```bash
 cd XnetrouterV10.5
+```
+```bash
+npm install
+```
+## Cara Menjalankan
+```bash
+npm start
 ```
