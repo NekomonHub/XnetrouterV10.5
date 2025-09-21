@@ -1,6 +1,6 @@
 # XnetrouterV10.5 - Router Attack
 <p>
-  WARNING!! Gunakan script ini Dengan bijak Dan penuh Tanggungjawab Anda
+  WARNING!! gunakan skrip ini dengan bijak dan penuh tanggung jawab. Jangan digunakan untuk tujuan yang merugikan atau ilegal.
 </p>
 
 **Fitur:**
