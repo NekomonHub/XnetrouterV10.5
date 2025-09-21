@@ -1,4 +1,7 @@
 # XnetrouterV10.5 - Router Attack
+<p>
+  WARNING!! Gunakan script ini Dengan bijak Dan penuh Tanggungjawab Anda
+</p>
 **Fitur:**
 - Icmp raw
 - Icmp broadcast network
@@ -23,10 +26,12 @@ npm install
 ```bash
 npm start
 ```
-
 <p>Script ini di support oleh</p>
 <p>
-  <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" width="50" />
-  <img src="https://cdn-icons-png.flaticon.com/512/919/919828.png" width="50" />
-  <img src="https://cdn-icons-png.flaticon.com/512/919/919831.png" width="50" />
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" width="50" />
+  </a>
+  <a href="https://www.javascript.com/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/919/919828.png" width="50" />
+  </a>
 </p>
