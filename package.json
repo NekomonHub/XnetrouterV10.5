@@ -1,0 +1,18 @@
+{
+  "name": "xnetinc",
+  "version": "10.0.0",
+  "description": "",
+  "main": "remote.js",
+  "scripts": {
+    "start": "node remote.js"
+  },
+  "keywords": [],
+  "author": "ZennDev",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+  	"chalk": "^4.1.2",
+  	"figlet": "^1.9.3",
+  	"cfonts": "^3.3.1"
+  }
+}
