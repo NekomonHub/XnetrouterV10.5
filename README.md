@@ -1,4 +1,4 @@
-# XnetrouterV10.5
+# XnetrouterV10.5 - Router Attack
 **Fitur:**
 - Icmp raw
 - Icmp broadcast network
@@ -23,3 +23,8 @@ npm install
 ```bash
 npm start
 ```
+## Script ini di support oleh
+
+![Node.js](https://cdn-icons-png.flaticon.com/512/919/919825.png) 
+![JavaScript](https://cdn-icons-png.flaticon.com/512/919/919828.png) 
+![Bash](https://cdn-icons-png.flaticon.com/512/919/919831.png)
